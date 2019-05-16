@@ -11,7 +11,6 @@ ideal_weight = my_height - 110
 
 if ideal_weight >= 0
   puts"Hello #{my_name.capitalize}, your ideal weight is #{ideal_weight}!"
-
 else
   puts"Your weight is not ok"
 end
